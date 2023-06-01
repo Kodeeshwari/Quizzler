@@ -2,7 +2,7 @@
 
 A quiz application called Quizzler is a program that allows users to participate in interactive quizzes by selecting the correct answer whether it is true or false. This application also includes a scoring system that keeps track of the user's performance. Whenever a user selects the correct answer, their score is incremented accordingly. This feature motivates users to answer questions correctly and strive for a higher score.
 
-<img src="Documentation/quizzler-ss.png" alt="Quizzler-Screenshot" width="200"/>
+<img src="Documentation/quizzler-ss.png" alt="Quizzler-Screenshot" width="300"/>
 
 ## What I learnt
 
